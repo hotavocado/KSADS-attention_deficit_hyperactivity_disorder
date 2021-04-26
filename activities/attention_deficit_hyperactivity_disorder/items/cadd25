@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "cadd25",
+    "ui": {
+        "inputType": "static"
+    },
+    "question": "_INTERVIEWER: The participant did not endorse any positive attention or hyperactivity symptoms, END **Attention Deficit Hyperactivity Disorder** section._",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "End Section",
+                "@type": "schema:option"
+            }
+        ],
+        "requiredValue": ""
+    }
+}

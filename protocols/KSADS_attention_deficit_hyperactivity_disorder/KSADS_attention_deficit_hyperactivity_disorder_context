@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-attention_deficit_hyperactivity_disorder/master/activities/",
+        "attention_deficit_hyperactivity_disorder": {
+            "@id": "activity_path:attention_deficit_hyperactivity_disorder/attention_deficit_hyperactivity_disorder_schema",
+            "@type": "@id"
+        }
+    }
+}

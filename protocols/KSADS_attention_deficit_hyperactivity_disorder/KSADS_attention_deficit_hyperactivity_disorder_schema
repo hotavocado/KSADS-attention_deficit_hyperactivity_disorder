@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/KSADS-attention_deficit_hyperactivity_disorder/master/protocols/KSADS_attention_deficit_hyperactivity_disorder/KSADS_attention_deficit_hyperactivity_disorder_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "KSADS_attention_deficit_hyperactivity_disorder_schema",
+    "skos:prefLabel": "Attention Deficit Hyperactivity Disorder",
+    "schema:description": "Attention Deficit Hyperactivity Disorder section for KSADS interview",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/KSADS-attention_deficit_hyperactivity_disorder/master/protocols/KSADS_attention_deficit_hyperactivity_disorder/README.md",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "attention_deficit_hyperactivity_disorder",
+                "isAbout": "attention_deficit_hyperactivity_disorder",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "attention_deficit_hyperactivity_disorder"
+        ],
+        "shuffle": false
+    }
+}

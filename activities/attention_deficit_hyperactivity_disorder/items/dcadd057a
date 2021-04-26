@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcadd057a",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Specify (examples):",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}
